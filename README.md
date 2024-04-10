@@ -47,7 +47,3 @@ To check the status of the workers, use the rq info command:
 
    ```bash
    rq info
-
-
-
-
